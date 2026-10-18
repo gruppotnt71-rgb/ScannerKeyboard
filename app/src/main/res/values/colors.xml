@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kbd_bg">#1E1F22</color>
+    <color name="kbd_toolbar_bg">#141517</color>
+    <color name="kbd_key_bg">#2B2D31</color>
+    <color name="kbd_key_special_bg">#383A40</color>
+    <color name="kbd_key_accent_bg">#2563EB</color>
+    <color name="kbd_key_scan_bg">#16A34A</color>
+    <color name="kbd_text">#F3F4F6</color>
+    <color name="kbd_text_secondary">#9CA3AF</color>
+</resources>

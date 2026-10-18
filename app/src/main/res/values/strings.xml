@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scanner Keyboard</string>
+    <string name="ime_name">Scanner Keyboard (Barcode/OCR/NFC)</string>
+    <string name="subtype_it">Italiano (QWERTY)</string>
+    <string name="subtype_en">English (QWERTY)</string>
+</resources>

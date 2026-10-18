@@ -1,0 +1,14 @@
+# File specifici del singolo PC (rigenerati in automatico da Android Studio)
+local.properties
+.gradle/
+.kotlin/
+build/
+app/build/
+
+# File temporanei IDE
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
